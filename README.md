@@ -13,6 +13,7 @@ Ein kollaboratives Projekt als Übung für das 5. Semester.
 * Reverse
 * Bitcrusher
 * Gate
+* ...
 
 ### Programmaufruf:
 ```
