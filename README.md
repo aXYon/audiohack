@@ -4,7 +4,7 @@ Ein kollaboratives Projekt als Übung für das 5. Semester.
 ### mögliche Funktionen:
 * Effekte
   * Delay
-	* Reverb
+  * Reverb
   * Pitchshift
   * ...
 * FadeIn, FadeOut
