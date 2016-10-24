@@ -3,10 +3,10 @@ Ein kollaboratives Projekt als Übung für das 5. Semester.
 
 ### mögliche Funktionen:
 * Effekte
-** Delay
-** Reverb
-** Pitchshift
-** ...
+  * Delay
+	* Reverb
+  * Pitchshift
+  * ...
 * FadeIn, FadeOut
 * Volume change, Normalize
 * Cut
