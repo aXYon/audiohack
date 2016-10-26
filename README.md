@@ -26,11 +26,22 @@ $ audiohack if.wav of.wav cut
 #### Gate
 ##### Aufruf:
 ```
-$ audiohack if.wav of.wav -g <threshold> [<attack> <release>]
+$ audiohack if.wav of.wav --action gate <threshold> [<attack> <release>]
 ```
 
 ##### Parameter:
 * threshold: Wert, ab dem das Gate greift. [0.0-1.0]
 * [attack]: Anstiegszeit
 * [release]: Abklingzeit
+
+#### Bitcrusher
+
+##### Aufruf:
+```
+$ audiohack if.wav of.wav --action bitcrusher <bitRate> <bitDepth>
+```
+#### Parameter:
+
+* bitRate: 
+* bitDepth:
 
